@@ -6,18 +6,7 @@
 - [Epic Rap Battles of History in Sanskrit](https://www.youtube.com/watch?v=72B-ithwpXk)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
-
-<h1 align="center">Vedant Madane</h1>
-<h3 align="center">Sanskrit and NLP enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmadane&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantmadane" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantmadane" alt="vedantmadane" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vedant__madane" target="blank"><img src="https://img.shields.io/twitter/follow/vedant__madane?logo=twitter&style=for-the-badge" alt="vedant__madane" /></a> </p>
-
-- 🔭 I’m currently working on [Sentiment Analysis of Mahābhārata](vedantmadane.github.io/maha/)
+[Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,6 +16,7 @@
 - [Course 3 Day5 and 6 of Abhyāsaḥ Subhāṣitaṃ Saṃskṛtam](https://vedantmadane.github.io/2020-09-21-Course_03_Day5-6-abhy%C4%81sa%E1%B8%A5_subh%C4%81%E1%B9%A3ita%E1%B9%83_sa%E1%B9%83sk%E1%B9%9Btam/)
 - [How to Find Similarity Between Movies Based on Their Plots](https://vedantmadane.github.io/2020-09-07-similar-movies-based-on-plots/)
 - [How to Clean Your Data When Preparing a Dataset](https://vedantmadane.github.io/2020-09-06-data-cleaning/)
+[Read more posts➡️](https://vedantmadane.github.io/2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +36,17 @@
 <a href="https://www.leetcode.com/vedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vedev" height="30" width="40" /></a>
 <a href="/https://vedantmadane.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://vedantmadane.github.io/feed.xml" height="30" width="40" /></a>
 </p>
+<h1 align="center">Vedant Madane</h1>
+<h3 align="center">Sanskrit and NLP enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmadane&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantmadane" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantmadane" alt="vedantmadane" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/vedant__madane" target="blank"><img src="https://img.shields.io/twitter/follow/vedant__madane?logo=twitter&style=for-the-badge" alt="vedant__madane" /></a> </p>
+
+- 🔭 I’m currently working on [Sentiment Analysis of Mahābhārata](vedantmadane.github.io/maha/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
