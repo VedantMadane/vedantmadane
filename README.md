@@ -2,7 +2,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [भगवद्गीतायाम् प्रथमोऽध्यायः](https://www.youtube.com/watch?v=i0zr2op39zA)
+- [Prophet from Russian into Sanskrit](https://www.youtube.com/watch?v=iXsySizlE3U)
+- [Epic Rap Battles of History in Sanskrit](https://www.youtube.com/watch?v=72B-ithwpXk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
