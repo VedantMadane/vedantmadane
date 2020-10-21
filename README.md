@@ -16,8 +16,8 @@
 - [Course 3 Day5 and 6 of Abhyāsaḥ Subhāṣitaṃ Saṃskṛtam](https://vedantmadane.github.io/2020-09-21-Course_03_Day5-6-abhy%C4%81sa%E1%B8%A5_subh%C4%81%E1%B9%A3ita%E1%B9%83_sa%E1%B9%83sk%E1%B9%9Btam/)
 - [How to Find Similarity Between Movies Based on Their Plots](https://vedantmadane.github.io/2020-09-07-similar-movies-based-on-plots/)
 - [How to Clean Your Data When Preparing a Dataset](https://vedantmadane.github.io/2020-09-06-data-cleaning/)
-[Read more posts➡️](https://vedantmadane.github.io/2/)
 <!-- BLOG-POST-LIST:END -->
+[Read more posts➡️](https://vedantmadane.github.io/2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
