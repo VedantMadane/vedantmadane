@@ -8,7 +8,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
 
----<h1 align="center">I'm Vedant</h1>
+<h1 align="center">Vedant Madane</h1>
 <h3 align="center">Sanskrit and NLP enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmadane&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantmadane" /> </p>
