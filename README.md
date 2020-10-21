@@ -1,4 +1,3 @@
-# vedantmadane-readme.md
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -32,16 +31,6 @@
 
 <br />
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://vedantmadane.github.io)
 
 ---
 
