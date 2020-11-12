@@ -1,6 +1,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Uninstall Edge from Microsoft Windows 10](https://www.youtube.com/watch?v=65XM37jWvNA)
 - [भगवद्गीतायाम् प्रथमोऽध्यायः](https://www.youtube.com/watch?v=i0zr2op39zA)
 - [Prophet from Russian into Sanskrit](https://www.youtube.com/watch?v=iXsySizlE3U)
 - [Epic Rap Battles of History in Sanskrit](https://www.youtube.com/watch?v=72B-ithwpXk)
