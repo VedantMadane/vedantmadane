@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Till Verse 105 of First Chapter in Adi Parva of the Mahābhārata](https://www.youtube.com/watch?v=lJZSCCuR2Cs)
 - [When did Dhṛtarāshtra Lose All Hope for Victory? Find out in Mahābhārata Adi Parva Upto Verse 158](https://www.youtube.com/watch?v=9uJC3NThtdk)
 - [Till Verse 100 of First Chapter in Adi Parva of the Mahābhārata](https://www.youtube.com/watch?v=UqSl4dG0veA)
 - [Mahābhārata Book 1 Chapter 1 Upto Verse 88](https://www.youtube.com/watch?v=2yxkxbijFF8)
 - [Mahābhārata Book 1 Chapter 1 Upto Verse 31](https://www.youtube.com/watch?v=SMSsnzQuC88)
-- [Mahābhārata Book 1 Chapter 1 Upto Verse 24](https://www.youtube.com/watch?v=tWgBIifnSOM)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
