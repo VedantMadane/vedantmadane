@@ -3,7 +3,7 @@
 <!-- YOUTUBE:START -->
 - [Till Verse 105 of First Chapter in Adi Parva of the Mahābhārata](https://www.youtube.com/watch?v=_QAkuP-kLIo)
 - [भगवद्गीतायां द्वितीयोऽध्यायः](https://www.youtube.com/watch?v=1_rTYVUA02k)
-- [When Dhṛtarāshtra Lost All Hope for Victory? Find out in Mahābhārata Adi Parva Upto Verse 158](https://www.youtube.com/watch?v=9uJC3NThtdk)
+- [When did Dhṛtarāshtra Lose All Hope for Victory? Find out in Mahābhārata Adi Parva Upto Verse 158](https://www.youtube.com/watch?v=9uJC3NThtdk)
 - [Till Verse 100 of First Chapter in Adi Parva of the Mahābhārata](https://www.youtube.com/watch?v=UqSl4dG0veA)
 - [Mahābhārata Book 1 Chapter 1 Upto Verse 88](https://www.youtube.com/watch?v=2yxkxbijFF8)
 <!-- YOUTUBE:END -->
