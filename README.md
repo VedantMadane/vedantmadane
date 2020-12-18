@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4 Vedas were Weighed alongside the Bhārata | Mahābhārata upto 1-1-210](https://www.youtube.com/watch?v=yBrBxp_16Kg)
+- [Glories of Bhārata | Mahābhārata upto 1-1-203](https://www.youtube.com/watch?v=hoTlef_2Zi0)
+- [The Glories of Vāsudeva | Mahābhārata upto 1-1-198](https://www.youtube.com/watch?v=21ix3c2XASQ)
 - [Mahābhārata upto 1-1-173](https://www.youtube.com/watch?v=6m89BUEzxeI)
 - [Adi Parva of the Mahabharata Upto 163rd Verse of the First Chapter](https://www.youtube.com/watch?v=6vPs-4fN3MI)
-- [Mahābhārata upto 1-1-192](https://www.youtube.com/watch?v=QLUKdgLxWZo)
-- [भगवद्गीतायां द्वितीयोऽध्यायः](https://www.youtube.com/watch?v=1_rTYVUA02k)
-- [When did Dhṛtarāshtra Lose All Hope for Victory? Find out in Mahābhārata Adi Parva Upto Verse 158](https://www.youtube.com/watch?v=9uJC3NThtdk)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
