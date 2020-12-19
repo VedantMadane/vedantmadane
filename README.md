@@ -1,8 +1,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Mahābhārata upto 1-1-192](https://www.youtube.com/watch?v=QLUKdgLxWZo)
-- [4 Vedas were Weighed alongside the Bhārata | Mahābhārata upto 1-1-210](https://www.youtube.com/watch?v=yBrBxp_16Kg)
+- [Time is Responsible According to Dhṛtarāṣṭra | Mahābhārata upto 1-1-192](https://www.youtube.com/watch?v=QLUKdgLxWZo)
+- [4 Vedas Weighed Alongside the Bhārata | Mahābhārata upto 1-1-210](https://www.youtube.com/watch?v=yBrBxp_16Kg)
 - [Glories of Bhārata | Mahābhārata upto 1-1-203](https://www.youtube.com/watch?v=hoTlef_2Zi0)
 - [The Glories of Vāsudeva | Mahābhārata upto 1-1-198](https://www.youtube.com/watch?v=21ix3c2XASQ)
 - [Mahābhārata upto 1-1-173](https://www.youtube.com/watch?v=6m89BUEzxeI)
