@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [भारतस्य सेना](https://www.youtube.com/watch?v=Bot7UUXmSFg)
+- [1. स्वपरिचयः आत्मपरिचयः दशवाकयैः](https://www.youtube.com/watch?v=2AQVpvVpRT8)
 - [3. तस्य सुभाषितश्लोकस्य पदच्छेदः, सन्धिः, समासः, संस्कृतेनअर्थः](https://www.youtube.com/watch?v=LgTOX-KUTeY)
 - [4. कथैका वक्तव्या (नितिःका इत्यपि वक्तव्या)](https://www.youtube.com/watch?v=Dth2Z8CM5ic)
 - [2 एकस्य सुभाषितश्लोकस्य कथनम्](https://www.youtube.com/watch?v=j5o5kmeu3Hw)
-- [4 Vedas Weighed Alongside the Bhārata | Mahābhārata upto 1-1-210](https://www.youtube.com/watch?v=yBrBxp_16Kg)
-- [Glories of Bhārata | Mahābhārata upto 1-1-203](https://www.youtube.com/watch?v=hoTlef_2Zi0)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
