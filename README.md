@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Interest of the Ṛṣis is Piqued at the Mention of Akṣauhiṇī | Mahabharat 1 2 14](https://www.youtube.com/watch?v=VICC0BIJUuA)
+- [Suta Mentions the Military Unit of Akshauhini | Mahabharat upto 1-2-12](https://www.youtube.com/watch?v=G1Xc7fc12T8)
+- [The Sages Inquired About the Five Great Lakes | Mahabharat 1-2-7](https://www.youtube.com/watch?v=ON2qTBVKGG4)
 - [भारतस्य सेना](https://www.youtube.com/watch?v=Bot7UUXmSFg)
 - [1. स्वपरिचयः आत्मपरिचयः दशवाकयैः](https://www.youtube.com/watch?v=2AQVpvVpRT8)
-- [3. तस्य सुभाषितश्लोकस्य पदच्छेदः, सन्धिः, समासः, संस्कृतेनअर्थः](https://www.youtube.com/watch?v=LgTOX-KUTeY)
-- [4. कथैका वक्तव्या (नितिः का इत्यपि वक्तव्या)](https://www.youtube.com/watch?v=Dth2Z8CM5ic)
-- [2 एकस्य सुभाषितश्लोकस्य कथनम्](https://www.youtube.com/watch?v=j5o5kmeu3Hw)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
