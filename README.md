@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Interest of the Ṛṣis is Piqued at the Mention of Akṣauhiṇī | Mahabharat 1 2 14](https://www.youtube.com/watch?v=VICC0BIJUuA)
-- [Suta Mentions the Military Unit of Akshauhini | Mahabharat upto 1-2-12](https://www.youtube.com/watch?v=G1Xc7fc12T8)
-- [The Sages Inquired About the Five Great Lakes | Mahabharat 1-2-7](https://www.youtube.com/watch?v=ON2qTBVKGG4)
-- [भारतस्य सेना](https://www.youtube.com/watch?v=Bot7UUXmSFg)
-- [1. स्वपरिचयः आत्मपरिचयः दशवाकयैः](https://www.youtube.com/watch?v=2AQVpvVpRT8)
+- [भगवद्गीतायाः कर्मयोगो नाम​ तृतीयोऽध्ययः](https://www.youtube.com/watch?v=DGbjSDNIC30)
+- [Yugala Kishora Ashtakam](https://www.youtube.com/watch?v=RdlVgSDBE2k)
+- [The Qualities of Bhishma | Mahabharat 1 2 81](https://www.youtube.com/watch?v=scHM9WSpE9E)
+- [The Gods Decide Weather to Send Their Plenary Portions or to Descend Themselves | Mahabharat 1 2 77](https://www.youtube.com/watch?v=c0rhs7QOntg)
+- [Number of Soldiers, Horses, Elephants and Chariots in an Akṣauhiṇī | Mahabharat 1 2 74](https://www.youtube.com/watch?v=4I-nuvNhkg4)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
