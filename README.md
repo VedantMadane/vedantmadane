@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Sages Inquired About the Five Great Lakes | Mahabharat 1-2-7](https://www.youtube.com/watch?v=ON2qTBVKGG4)
 - [भगवद्गीतायाः कर्मयोगो नाम​ तृतीयोऽध्ययः](https://www.youtube.com/watch?v=DGbjSDNIC30)
 - [Yugala Kishora Ashtakam](https://www.youtube.com/watch?v=RdlVgSDBE2k)
 - [The Qualities of Bhishma | Mahabharat 1 2 81](https://www.youtube.com/watch?v=scHM9WSpE9E)
 - [The Gods Decide Weather to Take Avatar or Send Their Plenary Portions | Mahabharat 1 2 77](https://www.youtube.com/watch?v=c0rhs7QOntg)
-- [Number of Soldiers, Horses, Elephants and Chariots in an Akṣauhiṇī | Mahabharat 1 2 74](https://www.youtube.com/watch?v=4I-nuvNhkg4)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
