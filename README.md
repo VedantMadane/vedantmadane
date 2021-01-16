@@ -1,7 +1,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Sages Inquired About the Five Great Lakes | Mahabharat 1-2-7](https://www.youtube.com/watch?v=ON2qTBVKGG4)
+- [The Sages Inquire About the Five Great Lakes | Mahabharat 1-2-7](https://www.youtube.com/watch?v=ON2qTBVKGG4)
 - [भगवद्गीतायाः कर्मयोगो नाम​ तृतीयोऽध्ययः](https://www.youtube.com/watch?v=DGbjSDNIC30)
 - [Yugala Kishora Ashtakam](https://www.youtube.com/watch?v=RdlVgSDBE2k)
 - [The Qualities of Bhishma | Mahabharat 1 2 81](https://www.youtube.com/watch?v=scHM9WSpE9E)
