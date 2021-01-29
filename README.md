@@ -3,7 +3,7 @@
 <!-- YOUTUBE:START -->
 - [BhartṛHari Among the Europeans | By Edgar Leitan |  In Shardulavikridita Chhanda](https://www.youtube.com/watch?v=-KO6Fhb9i24)
 - [Invitation to Teleport Addressed to Guru by Edgar Leitan in Shardulavikridita Chhanda](https://www.youtube.com/watch?v=kUox5niiAjo)
-- [Teacher of Treasure Hunters | Edgar Leitan](https://www.youtube.com/watch?v=WwuOClTgUbg)
+- [Teacher of Treasure Hunters by Edgar Leitan in Shardulavikridita Chhanda](https://www.youtube.com/watch?v=WwuOClTgUbg)
 - [Yamuna Ashtakam with Meaning](https://www.youtube.com/watch?v=xoYlr7mUcZA)
 - [51 Years of A Legend Named Edgar Leitan](https://www.youtube.com/watch?v=iPIfGPyqFk0)
 <!-- YOUTUBE:END -->
