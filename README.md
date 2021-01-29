@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BhartṛHari Among the Europeans | Edgar Leitan](https://www.youtube.com/watch?v=-KO6Fhb9i24)
 - [Invitation to Teleport Addressed to Guru by Edgar Leitan](https://www.youtube.com/watch?v=kUox5niiAjo)
 - [Teacher of Treasure Hunters | Edgar Leitan](https://www.youtube.com/watch?v=WwuOClTgUbg)
 - [Yamuna Ashtakam with Meaning](https://www.youtube.com/watch?v=xoYlr7mUcZA)
 - [51 Years of A Legend Named Edgar Leitan](https://www.youtube.com/watch?v=iPIfGPyqFk0)
-- [Krishna Smashes Nocturnal Demons With the Thunderbolt | Edgar Leitan](https://www.youtube.com/watch?v=FuU8MdSEND0)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
