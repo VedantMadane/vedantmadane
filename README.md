@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aditya Hṛdaya Stotra with Meaning | Mantra for Becoming A Brave-Heart |As told by Sage Agasti to Ram](https://www.youtube.com/watch?v=tRnf_1hWtmw)
 - [BhartṛHari Among the Europeans | In Shardulavikridita Chhanda](https://www.youtube.com/watch?v=-KO6Fhb9i24)
 - [Invitation to Teleport Addressed to Guru by Edgar Leitan in Shardulavikridita Chhanda](https://www.youtube.com/watch?v=kUox5niiAjo)
 - [Teacher of Treasure Hunters](https://www.youtube.com/watch?v=WwuOClTgUbg)
 - [Yamuna Ashtakam with Meaning](https://www.youtube.com/watch?v=xoYlr7mUcZA)
-- [51 Years of A Legend Named Edgar Leitan](https://www.youtube.com/watch?v=iPIfGPyqFk0)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
