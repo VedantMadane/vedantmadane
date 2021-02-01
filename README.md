@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lord Rāma, the Protector of Freedom of Speech](https://www.youtube.com/watch?v=JESVOaRuzzU)
 - [Final Year Project | Sentiment Analysis of the Mahābhārata Corpus](https://www.youtube.com/watch?v=FZ3SSqtbAi8)
 - [Aditya Hṛdaya Stotra with Meaning | Mantra for Becoming A Brave-Heart |As told by Sage Agasti to Ram](https://www.youtube.com/watch?v=tRnf_1hWtmw)
 - [BhartṛHari Among the Europeans | In Shardulavikridita Chhanda](https://www.youtube.com/watch?v=-KO6Fhb9i24)
 - [Invitation to Teleport Addressed to Guru by Edgar Leitan in Shardulavikridita Chhanda](https://www.youtube.com/watch?v=kUox5niiAjo)
-- [Teacher of Treasure Hunters](https://www.youtube.com/watch?v=WwuOClTgUbg)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
