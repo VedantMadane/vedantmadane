@@ -1,7 +1,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Lord Rāma, the Protector of Freedom of Speech](https://www.youtube.com/watch?v=JESVOaRuzzU)
+- [The Protector of Freedom of Speech](https://www.youtube.com/watch?v=JESVOaRuzzU)
 - [Final Year Project | Sentiment Analysis of the Mahābhārata Corpus](https://www.youtube.com/watch?v=FZ3SSqtbAi8)
 - [Aditya Hṛdaya Stotra with Meaning | Mantra for Becoming A Brave-Heart |As told by Sage Agasti to Ram](https://www.youtube.com/watch?v=tRnf_1hWtmw)
 - [BhartṛHari Among the Europeans | In Shardulavikridita Chhanda](https://www.youtube.com/watch?v=-KO6Fhb9i24)
