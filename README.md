@@ -1,7 +1,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What Are The Consequences of Making Mistakes?](https://www.youtube.com/watch?v=cphbTCWTOcc)
+- [Consequences of Making Mistakes](https://www.youtube.com/watch?v=cphbTCWTOcc)
 - [Could You Talk To A Stranger In Sanskrit?](https://www.youtube.com/watch?v=BhTowKXNNFc)
 - [भगवद्गीतायाः द्वादशोऽध्यायः](https://www.youtube.com/watch?v=TBnjRr8YpYQ)
 - [The Protector of Freedom of Speech](https://www.youtube.com/watch?v=JESVOaRuzzU)
