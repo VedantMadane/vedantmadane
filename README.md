@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Are The Consequences of Making Mistakes?](https://www.youtube.com/watch?v=cphbTCWTOcc)
 - [Could You Talk To A Stranger In Sanskrit?](https://www.youtube.com/watch?v=BhTowKXNNFc)
 - [भगवद्गीतायाः द्वादशोऽध्यायः](https://www.youtube.com/watch?v=TBnjRr8YpYQ)
 - [The Protector of Freedom of Speech](https://www.youtube.com/watch?v=JESVOaRuzzU)
 - [Final Year Project | Sentiment Analysis of the Mahābhārata Corpus](https://www.youtube.com/watch?v=FZ3SSqtbAi8)
-- [Aditya Hṛdaya Stotra with Meaning | Mantra for Becoming A Brave-Heart |As told by Sage Agasti to Ram](https://www.youtube.com/watch?v=tRnf_1hWtmw)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
