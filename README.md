@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Drunk On Pure Speech, How Attractive is Sanskrit!](https://www.youtube.com/watch?v=1OyrCi3G6E8)
 - [How to Understand Shastras?](https://www.youtube.com/watch?v=S_sbbH9VIt8)
 - [Consequences of Making Mistakes](https://www.youtube.com/watch?v=cphbTCWTOcc)
 - [Could You Talk To A Stranger In Sanskrit?](https://www.youtube.com/watch?v=BhTowKXNNFc)
 - [भगवद्गीतायाः द्वादशोऽध्यायः](https://www.youtube.com/watch?v=TBnjRr8YpYQ)
-- [The Protector of Freedom of Speech](https://www.youtube.com/watch?v=JESVOaRuzzU)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
