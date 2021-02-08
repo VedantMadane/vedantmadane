@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Is The Main Aim of Sanskrit Shastras?](https://www.youtube.com/watch?v=cjzUzQVH4QI)
 - [नीलमतपुराणम्। Nīlamata Purāṇa upto 83rd Verse नीलमतपुराणस्य मूलपाठस्य पारायणम्।](https://www.youtube.com/watch?v=IJqWHVBg2q8)
 - [Drunk On Pure Speech, How Attractive is Sanskrit!](https://www.youtube.com/watch?v=1OyrCi3G6E8)
 - [How to Understand Shastras?](https://www.youtube.com/watch?v=S_sbbH9VIt8)
 - [Consequences of Making Mistakes](https://www.youtube.com/watch?v=cphbTCWTOcc)
-- [Could You Talk To A Stranger In Sanskrit?](https://www.youtube.com/watch?v=BhTowKXNNFc)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
