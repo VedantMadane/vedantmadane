@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Are The Transformations Which Are Certain In This World?](https://www.youtube.com/watch?v=QB8S9q59VR0)
 - [Are Emotional Outbursts of Anger Justified?](https://www.youtube.com/watch?v=ZBwkiNaPHvQ)
 - [What Is The Main Aim of Sanskrit Shastras?](https://www.youtube.com/watch?v=cjzUzQVH4QI)
 - [Why Didn't Kashmir Participate in Mahabharat War?](https://www.youtube.com/watch?v=IJqWHVBg2q8)
 - [Drunk On Pure Speech, How Attractive is Sanskrit!](https://www.youtube.com/watch?v=1OyrCi3G6E8)
-- [How to Understand Shastras?](https://www.youtube.com/watch?v=S_sbbH9VIt8)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
