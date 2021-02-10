@@ -1,7 +1,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What Are The Transformations Which Are Certain In This World?](https://www.youtube.com/watch?v=QB8S9q59VR0)
+- [Transformations Certain In This World](https://www.youtube.com/watch?v=QB8S9q59VR0)
 - [Are Emotional Outbursts of Anger Justified?](https://www.youtube.com/watch?v=ZBwkiNaPHvQ)
 - [What Is The Main Aim of Sanskrit Shastras?](https://www.youtube.com/watch?v=cjzUzQVH4QI)
 - [Why Didn't Kashmir Participate in Mahabharat War?](https://www.youtube.com/watch?v=IJqWHVBg2q8)
