@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mention of Pilgrimage Sites in Nīlamata Purāṇa upto 87rd Verse](https://www.youtube.com/watch?v=onc-Lv7zyN8)
 - [भगवद्गीतायाः पञ्चदशोऽध्यायः](https://www.youtube.com/watch?v=KbFV_hlIru8)
 - [Where Is Beauty In This World?](https://www.youtube.com/watch?v=yVlcpuG9GAA)
 - [Transformations Certain In This World](https://www.youtube.com/watch?v=QB8S9q59VR0)
 - [Are Emotional Outbursts of Anger Justified?](https://www.youtube.com/watch?v=ZBwkiNaPHvQ)
-- [What Is The Main Aim of Sanskrit Shastras?](https://www.youtube.com/watch?v=cjzUzQVH4QI)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
