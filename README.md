@@ -8,7 +8,7 @@
 - [Description of Vienna, Austria in Sanskrit](https://www.youtube.com/watch?v=c0eU7JgPvVQ)
 <!-- YOUTUBE:END -->
 
-[Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q)
+[Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
