@@ -12,6 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyrillic to Devanāgarī Transliteration Scheme](https://vedantmadane.github.io/2021-03-08-Devan%C4%81gar%C4%AB-Cyrillic-Transliteration-Scheme/)
 - [Topic Modelling the Mahābhārata Parvas](https://vedantmadane.github.io/2021-03-03-topic-modelling-the-mahabharata/)
 - [10 English Proverbs and How to Say it in Sanskrit](https://vedantmadane.github.io/2021-02-25-proverbs/)
 - [श्रीयमुनाष्टकम् Yamunashtakam](https://vedantmadane.github.io/2021-01-29-%E0%A4%B6-%E0%A4%B0%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%B7-%E0%A4%9F%E0%A4%95%E0%A4%AE/)
@@ -21,7 +22,6 @@
 - [Data Analysis With Python Course Project](https://vedantmadane.github.io/2020-09-23-Data-Analysis-with-Python-Course-Project/)
 - [Course 3 Day5 and 6 of Abhyāsaḥ Subhāṣitaṃ Saṃskṛtam](https://vedantmadane.github.io/2020-09-21-Course_03_Day5-6-abhy%C4%81sa%E1%B8%A5_subh%C4%81%E1%B9%A3ita%E1%B9%83_sa%E1%B9%83sk%E1%B9%9Btam/)
 - [How to Find Similarity Between Movies Based on Their Plots](https://vedantmadane.github.io/2020-09-07-similar-movies-based-on-plots/)
-- [How to Clean Your Data When Preparing a Dataset](https://vedantmadane.github.io/2020-09-06-data-cleaning/)
 <!-- BLOG-POST-LIST:END -->
 [Read more posts➡️](https://vedantmadane.github.io/2/)
 
