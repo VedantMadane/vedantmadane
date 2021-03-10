@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cosmic Play (lila) of Lord Is Indeed Called Fate](https://www.youtube.com/watch?v=UaeDD8rYpdY)
 - [Doctor For The Materially Conditioned](https://www.youtube.com/watch?v=6q3a2gnRMHs)
 - [A Blade of Grass Is Human Life](https://www.youtube.com/watch?v=0HmY0llHIJo)
 - [नीलमतपुराणे दशाधिकद्विशततमः श्लोकपर्यन्तं कश्मीरनिर्माणस्य परिकीर्तनः](https://www.youtube.com/watch?v=Bg5sd36n4o8)
 - [Attracted Towards Poetic Sanskrit](https://www.youtube.com/watch?v=4SI4mvBxeIg)
-- [What Is Fate?](https://www.youtube.com/watch?v=OmaG4SUcW0c)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
