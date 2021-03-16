@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Does Wisdom Become Manifest?](https://www.youtube.com/watch?v=zWK7MG_jB3k)
 - [Sentiment Analysis of the Mahābhārata Corpus](https://www.youtube.com/watch?v=FZ3SSqtbAi8)
 - [नीलमतपुराणे दशाधिकद्विशततमश्लोकतः द्विशताधिकपञ्चचत्वारिंशतिःश्लोकपर्यन्तम्](https://www.youtube.com/watch?v=LC2d7ma0kDc)
 - [A Kingdom That Is Broken In Itself, Will Never Remain Firm](https://www.youtube.com/watch?v=gWQA_YoU22E)
 - [Digital Business Management Pop Quiz #1](https://www.youtube.com/watch?v=WxBBRb39FAE)
-- [A Man Who Is Caught In the Net of Fate](https://www.youtube.com/watch?v=RHL4B7jFaaM)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
