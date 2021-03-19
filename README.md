@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fifteenth Chapter of the Bhagavadgita](https://www.youtube.com/watch?v=hR-0mi_cAJY)
 - [Is Sanskrit A Dead Language?](https://www.youtube.com/watch?v=eoXq_vwmvUM)
 - [All Creatures of the Lord of Creatures](https://www.youtube.com/watch?v=O2H9qufkT3g)
 - [How Does Wisdom Become Manifest?](https://www.youtube.com/watch?v=zWK7MG_jB3k)
 - [Sentiment Analysis of the Mahābhārata Corpus](https://www.youtube.com/watch?v=FZ3SSqtbAi8)
-- [नीलमतपुराणे दशाधिकद्विशततमश्लोकतः द्विशताधिकपञ्चचत्वारिंशतिःश्लोकपर्यन्तम्](https://www.youtube.com/watch?v=LC2d7ma0kDc)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
