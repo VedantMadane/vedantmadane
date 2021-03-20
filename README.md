@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nilamat Puran upto 268th Verse](https://www.youtube.com/watch?v=8zgJP_RQzzE)
 - [Where Is Beauty In This World?](https://www.youtube.com/watch?v=kp1lusb8kwQ)
 - [Fifteenth Chapter of the Bhagavadgita](https://www.youtube.com/watch?v=hR-0mi_cAJY)
 - [Is Sanskrit A Dead Language?](https://www.youtube.com/watch?v=eoXq_vwmvUM)
 - [All Creatures of the Lord of Creatures](https://www.youtube.com/watch?v=O2H9qufkT3g)
-- [How Does Wisdom Become Manifest?](https://www.youtube.com/watch?v=zWK7MG_jB3k)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
