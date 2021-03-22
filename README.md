@@ -18,7 +18,7 @@
 - [श्रीयमुनाष्टकम् Yamunashtakam](https://vedantmadane.github.io/2021-01-29-%E0%A4%B6-%E0%A4%B0%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%B7-%E0%A4%9F%E0%A4%95%E0%A4%AE/)
 - [Sanskrit Course5](https://vedantmadane.github.io/2021-01-09-sanskrit-course5/)
 - [सुभाषितं संस्कृतम् वर्गस्य_तृतीयस्तर परीक्षानिमित्तमिदम्प्रश्नपत्रम्](https://vedantmadane.github.io/2020-10-08-%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%82-%E0%A4%B8%E0%A4%82%E0%A4%B8-%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%AE-%E0%A4%B5%E0%A4%B0-%E0%A4%97%E0%A4%B8-%E0%A4%AF_%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B8-%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95-%E0%A4%B7%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%A4%E0%A4%AE%E0%A4%BF%E0%A4%A6%E0%A4%AE-%E0%A4%AA-%E0%A4%B0%E0%A4%B6-%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%AE/)
-- [Yesenin in Sanskrit](https://vedantmadane.github.io/2020-09-23-yesenin-in-sanskrit/)
+- [Russian Song in Sanskrit](https://vedantmadane.github.io/2020-09-23-yesenin-in-sanskrit/)
 - [Data Analysis With Python Course Project](https://vedantmadane.github.io/2020-09-23-Data-Analysis-with-Python-Course-Project/)
 - [Course 3 Day5 and 6 of Abhyāsaḥ Subhāṣitaṃ Saṃskṛtam](https://vedantmadane.github.io/2020-09-21-Course_03_Day5-6-abhy%C4%81sa%E1%B8%A5_subh%C4%81%E1%B9%A3ita%E1%B9%83_sa%E1%B9%83sk%E1%B9%9Btam/)
 - [How to Find Similarity Between Movies Based on Their Plots](https://vedantmadane.github.io/2020-09-07-similar-movies-based-on-plots/)
