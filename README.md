@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lump of Clay In The Hand of A Potter Is Human Life](https://www.youtube.com/watch?v=I4iB66_zi1w)
 - [There Is Division In Families, Friends, States, Scholars](https://www.youtube.com/watch?v=Wkl-qHRBu_g)
 - [Otgovarila Rosha Zolataya](https://www.youtube.com/watch?v=tqiA63vryDE)
 - [Nilamat Puran upto 268th Verse](https://www.youtube.com/watch?v=8zgJP_RQzzE)
 - [Where Is Beauty In This World?](https://www.youtube.com/watch?v=kp1lusb8kwQ)
-- [Fifteenth Chapter of the Bhagavadgita](https://www.youtube.com/watch?v=hR-0mi_cAJY)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
