@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Digital Business Management Pop Quiz #2](https://www.youtube.com/watch?v=6tmk_7zdpPM)
 - [भगवद्गीतायाः तृतीयोऽध्यायः](https://www.youtube.com/watch?v=jWBhiEtXzm4)
 - [Lump of Clay In The Hand of A Potter Is Human Life](https://www.youtube.com/watch?v=I4iB66_zi1w)
 - [There Is Division In Families, Friends, States, Scholars](https://www.youtube.com/watch?v=Wkl-qHRBu_g)
 - [Otgovarila Rosha Zolataya](https://www.youtube.com/watch?v=tqiA63vryDE)
-- [Nilamat Puran upto 268th Verse](https://www.youtube.com/watch?v=8zgJP_RQzzE)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
