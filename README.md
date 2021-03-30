@@ -1,11 +1,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Guided Chanting of Fifteenth Chapter of the Bhagavadgita](https://www.youtube.com/watch?v=TkGr-f5aq3Q)
 - [Index of the Mahabharat | MahaBharata upto 1 - 2 - 157](https://www.youtube.com/watch?v=p46365dmPVM)
 - [Nilamat Puran from 273rd to 315th Verse](https://www.youtube.com/watch?v=hL_OnfFw3Ug)
 - [Digital Business Management Pop Quiz #2](https://www.youtube.com/watch?v=6tmk_7zdpPM)
 - [भगवद्गीतायाः तृतीयोऽध्यायः](https://www.youtube.com/watch?v=jWBhiEtXzm4)
-- [Lump of Clay In The Hand of A Potter Is Human Life](https://www.youtube.com/watch?v=I4iB66_zi1w)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
