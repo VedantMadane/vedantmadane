@@ -37,7 +37,7 @@
 <a href="https://instagram.com/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedantmadane" height="30" width="40" /></a>
 <a href="https://www.behance.net/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vedantmadane" height="30" width="40" /></a>
 <a href="https://medium.com/@vedantnm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vedantnm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucum6vleuce22doink_9g27q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucum6vleuce22doink_9g27q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucum6vleuce22doink_9g27q" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vedantmadane" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vedev" height="30" width="40" /></a>
 <a href="/https://vedantmadane.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://vedantmadane.github.io/feed.xml" height="30" width="40" /></a>
