@@ -12,6 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Find Vedant Madane On](https://vedantmadane.github.io/2021-04-23-find-vedant-madane-on/)
 - [Cyrillic to Devanāgarī Transliteration Scheme](https://vedantmadane.github.io/2021-03-08-Devan%C4%81gar%C4%AB-Cyrillic-Transliteration-Scheme/)
 - [Topic Modelling the Mahābhārata Parvas](https://vedantmadane.github.io/2021-03-03-topic-modelling-the-mahabharata/)
 - [10 English Proverbs and How to Say it in Sanskrit](https://vedantmadane.github.io/2021-02-25-proverbs/)
@@ -21,7 +22,6 @@
 - [Russian Song in Sanskrit](https://vedantmadane.github.io/2020-09-23-yesenin-in-sanskrit/)
 - [Data Analysis With Python Course Project](https://vedantmadane.github.io/2020-09-23-Data-Analysis-with-Python-Course-Project/)
 - [Course 3 Day5 and 6 of Abhyāsaḥ Subhāṣitaṃ Saṃskṛtam](https://vedantmadane.github.io/2020-09-21-Course_03_Day5-6-abhy%C4%81sa%E1%B8%A5_subh%C4%81%E1%B9%A3ita%E1%B9%83_sa%E1%B9%83sk%E1%B9%9Btam/)
-- [How to Find Similarity Between Movies Based on Their Plots](https://vedantmadane.github.io/2020-09-07-similar-movies-based-on-plots/)
 <!-- BLOG-POST-LIST:END -->
 [Read more posts➡️](https://vedantmadane.github.io/2/)
 
