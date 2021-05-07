@@ -12,6 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You Spent 3224 minutes taking courses in April](https://vedantmadane.github.io/2021-05-07-plural-sight/)
 - [You Earned 12835 Xp This Week](https://vedantmadane.github.io/2021-05-05-you-earned-12835-XP-this-week/)
 - [May Journal Entry](https://vedantmadane.github.io/2021-05-04-may-journal-entry/)
 - [Find Vedant Madane On](https://vedantmadane.github.io/2021-04-23-find-vedant-madane-on/)
@@ -21,7 +22,6 @@
 - [श्रीयमुनाष्टकम् Yamunashtakam](https://vedantmadane.github.io/2021-01-29-%E0%A4%B6-%E0%A4%B0%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%B7-%E0%A4%9F%E0%A4%95%E0%A4%AE/)
 - [Sanskrit Course5](https://vedantmadane.github.io/2021-01-09-sanskrit-course5/)
 - [सुभाषितं संस्कृतम् वर्गस्य_तृतीयस्तर परीक्षानिमित्तमिदम्प्रश्नपत्रम्](https://vedantmadane.github.io/2020-10-08-%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%82-%E0%A4%B8%E0%A4%82%E0%A4%B8-%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%AE-%E0%A4%B5%E0%A4%B0-%E0%A4%97%E0%A4%B8-%E0%A4%AF_%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B8-%E0%A4%A4%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95-%E0%A4%B7%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%A4%E0%A4%AE%E0%A4%BF%E0%A4%A6%E0%A4%AE-%E0%A4%AA-%E0%A4%B0%E0%A4%B6-%E0%A4%A8%E0%A4%AA%E0%A4%A4-%E0%A4%B0%E0%A4%AE/)
-- [Russian Song in Sanskrit](https://vedantmadane.github.io/2020-09-23-yesenin-in-sanskrit/)
 <!-- BLOG-POST-LIST:END -->
 [Read more posts➡️](https://vedantmadane.github.io/2/)
 
