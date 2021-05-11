@@ -3,11 +3,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Smoke Detection & Temperature Control using Phone via Cisco Packet Tracer](https://www.youtube.com/watch?v=E76OsChCbFU)
 - [Poster Presentation on Sentiment Analysis of the Mahābhārata Parvas](https://www.youtube.com/watch?v=9yma_bsa9VU)
 - [Automatic Webpage Summary Generator using RuleBased Algorithm in Python Follow Along Coding Tutorial](https://www.youtube.com/watch?v=H-Fm8K3LGiY)
 - [Nilamat Puran from 340th to  345th Verse](https://www.youtube.com/watch?v=ucVuLP7W54s)
 - [माहेश्वराणि सूत्राणि । माहेश्वरेषु  सूत्रेषु अल् प्रत्याहारः ॥वाक् शुद्धिः॥](https://www.youtube.com/watch?v=bqeqnzSZlAI)
-- [वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये । जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ ॥वाक् शुद्धिः॥](https://www.youtube.com/watch?v=qEgJEASrVXM)
 <!-- YOUTUBE:END -->
 
 [Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
