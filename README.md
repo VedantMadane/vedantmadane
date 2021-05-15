@@ -1,4 +1,8 @@
-<h2 align="center">[I like learning languages-- both natural and programming.](https://vedantmadane.github.io/aboutme)</h2>
+<h2 align="center">
+  <a href="https://vedantmadane.github.io/aboutme" target="_blank">
+  I like learning languages-- both natural and programming.
+  </a>
+    </h2>
 
 ### 📺 Latest YouTube Videos
 
