@@ -1,9 +1,3 @@
-<h2 align="center">
-  <a href="https://vedantmadane.github.io/aboutme" target="_blank">
-  I like learning languages-- both natural and programming.
-  </a>
-    </h2>
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -31,6 +25,11 @@
 <!-- BLOG-POST-LIST:END -->
 [Read more posts➡️](https://vedantmadane.github.io/2/)
 
+<h2 align="center">
+  <a href="https://vedantmadane.github.io/aboutme" target="_blank">
+  I like learning languages-- both natural and programming.
+  </a>
+    </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vedantmadane" height="30" width="40" /></a>
