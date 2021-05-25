@@ -51,31 +51,21 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmadane&show_icons=true&locale=en&layout=compact" alt="vedantmadane" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucum6vleuce22doink_9g27q" height="30" width="40" /></a>
-
 <a href="https://instagram.com/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedantmadane" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/vedant-madane-7b129ba8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedant-madane-7b129ba8" height="30" width="40" /></a>
 <a href="https://fb.com/vedantnm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vedantnm" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vedantmadane" height="30" width="40" /></a>
 <a href="https://twitter.com/vedant__madane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vedant__madane" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="vedantmadane" height="30" width="40" /></a>
-
 <a href="https://medium.com/@vedantnm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vedantnm" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/4652148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4652148" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/vedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vedev" height="30" width="40" /></a>
 <a href="/https://vedantmadane.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://vedantmadane.github.io/feed.xml" height="30" width="40" /></a>
 <a href="https://codepen.io/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vedantmadane" height="30" width="40" /></a>
 <a href="https://dev.to/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vedantmadane" height="30" width="40" /></a>
-
 <a href="https://www.behance.net/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vedantmadane" height="30" width="40" /></a>
-
 </p>
 
