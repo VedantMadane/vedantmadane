@@ -12,6 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [May Month in Review](https://vedantmadane.github.io/2021-06-21-may-month-in-review/)
 - [What are Recurrent Neural Networks?](https://vedantmadane.github.io/2021-06-14-recurrent-neural-networks/)
 - [You earned more XP than 79 percent of learners](https://vedantmadane.github.io/2021-05-19-You-earned-more-XP-than-79-ptc-of-learners/)
 - [You Spent 3224 minutes taking courses in April](https://vedantmadane.github.io/2021-05-07-plural-sight/)
@@ -21,7 +22,6 @@
 - [Cyrillic to Devanāgarī Transliteration Scheme](https://vedantmadane.github.io/2021-03-08-Devan%C4%81gar%C4%AB-Cyrillic-Transliteration-Scheme/)
 - [Topic Modelling the Mahābhārata Parvas](https://vedantmadane.github.io/2021-03-03-topic-modelling-the-mahabharata/)
 - [10 English Proverbs and How to Say it in Sanskrit](https://vedantmadane.github.io/2021-02-25-proverbs/)
-- [श्रीयमुनाष्टकम् Yamunashtakam](https://vedantmadane.github.io/2021-01-29-%E0%A4%B6-%E0%A4%B0%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%B7-%E0%A4%9F%E0%A4%95%E0%A4%AE/)
 <!-- BLOG-POST-LIST:END -->
 [Read more posts➡️](https://vedantmadane.github.io/2/)
 
