@@ -12,7 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Meme Templates in Sanskrit](https://vedantmadane.github.io/2021-07-04-meme-templates-in-sanskrit/)
+- [15 Meme Templates in Sanskrit](https://vedantmadane.github.io/2021-07-04-15-meme-templates-in-sanskrit/)
 - [May Month in Review](https://vedantmadane.github.io/2021-06-21-may-month-in-review/)
 - [What are Recurrent Neural Networks?](https://vedantmadane.github.io/2021-06-14-recurrent-neural-networks/)
 - [You earned more XP than 79 percent of learners](https://vedantmadane.github.io/2021-05-19-You-earned-more-XP-than-79-ptc-of-learners/)
