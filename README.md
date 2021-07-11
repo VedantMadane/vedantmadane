@@ -1,7 +1,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [जगन्नाथाष्टकम् Jagannath Ashtakam | Jagannāthāśṭakaṁ](https://www.youtube.com/watch?v=6Q8OOD0A654)
+- [जगन्नाथाष्टकम् Jagannath Ashtakam | Jagannāthāṣṭakaṁ](https://www.youtube.com/watch?v=6Q8OOD0A654)
 - [After Hours Project Discussion](https://www.youtube.com/watch?v=jk1sl7f7MIk)
 - [Из Индии с днём России!](https://www.youtube.com/watch?v=39B9AS0IrAY)
 - [Question & Answers | Sentiment Analysis of the Mahābhārata Parvas Project Presentation](https://www.youtube.com/watch?v=U_P8QGPvsVM)
