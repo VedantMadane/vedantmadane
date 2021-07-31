@@ -12,6 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Exists Here May Be Found Elsewhere](https://vedantmadane.github.io/2021-07-30-what-is-here/)
 - [प्रधान पदार्थ विश्लेषण](https://vedantmadane.github.io/2021-07-19-pca/)
 - [June in Review](https://vedantmadane.github.io/2021-07-08-june-month-in-review/)
 - [15 Meme Templates in Sanskrit](https://vedantmadane.github.io/2021-07-04-15-meme-templates-in-sanskrit/)
@@ -21,7 +22,6 @@
 - [You Spent 3224 minutes taking courses in April](https://vedantmadane.github.io/2021-05-07-plural-sight/)
 - [You Earned 12835 Xp This Week](https://vedantmadane.github.io/2021-05-05-you-earned-12835-XP-this-week/)
 - [May Journal Entry](https://vedantmadane.github.io/2021-05-04-may-journal-entry/)
-- [Find Vedant Madane On](https://vedantmadane.github.io/2021-04-23-find-vedant-madane-on/)
 <!-- BLOG-POST-LIST:END -->
 [Read more posts➡️](https://vedantmadane.github.io/2/)
 
