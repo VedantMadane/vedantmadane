@@ -1,29 +1,4 @@
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Ganapati Atharva Shirsha | गणपति अथर्वशीर्षम् | Gaṇapati Atharva Śīrṣaṁ | गणपत्यथर्वशीर्षम् |](https://www.youtube.com/watch?v=TJ08cL5aDlI)
-- [जगन्नाथाष्टकम् Jagannath Ashtakam | Jagannāthāṣṭakaṁ](https://www.youtube.com/watch?v=6Q8OOD0A654)
-- [After Hours Project Discussion](https://www.youtube.com/watch?v=jk1sl7f7MIk)
-- [Из Индии с днём России!](https://www.youtube.com/watch?v=39B9AS0IrAY)
-- [Bachelor of Engineering Final Year Project Presentation](https://www.youtube.com/watch?v=6njDt28MYGs)
-<!-- YOUTUBE:END -->
-
-[Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [What Exists Here May Be Found Elsewhere](https://vedantmadane.github.io/2021-07-30-what-is-here/)
-- [प्रधान पदार्थ विश्लेषण](https://vedantmadane.github.io/2021-07-19-pca/)
-- [June in Review](https://vedantmadane.github.io/2021-07-08-june-month-in-review/)
-- [15 Meme Templates in Sanskrit](https://vedantmadane.github.io/2021-07-04-15-meme-templates-in-sanskrit/)
-- [May Month in Review](https://vedantmadane.github.io/2021-06-21-may-month-in-review/)
-- [What are Recurrent Neural Networks?](https://vedantmadane.github.io/2021-06-14-recurrent-neural-networks/)
-- [You earned more XP than 79 percent of learners](https://vedantmadane.github.io/2021-05-19-You-earned-more-XP-than-79-ptc-of-learners/)
-- [You Spent 3224 minutes taking courses in April](https://vedantmadane.github.io/2021-05-07-plural-sight/)
-- [You Earned 12835 Xp This Week](https://vedantmadane.github.io/2021-05-05-you-earned-12835-XP-this-week/)
-- [May Journal Entry](https://vedantmadane.github.io/2021-05-04-may-journal-entry/)
-<!-- BLOG-POST-LIST:END -->
-[Read more posts➡️](https://vedantmadane.github.io/2/)
 
 <h2 align="center">
   <a href="https://vedantmadane.github.io/aboutme" target="_blank">
@@ -69,3 +44,29 @@
 <a href="https://www.behance.net/vedantmadane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vedantmadane" height="30" width="40" /></a>
 </p>
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Ganapati Atharva Shirsha | गणपति अथर्वशीर्षम् | Gaṇapati Atharva Śīrṣaṁ | गणपत्यथर्वशीर्षम् |](https://www.youtube.com/watch?v=TJ08cL5aDlI)
+- [जगन्नाथाष्टकम् Jagannath Ashtakam | Jagannāthāṣṭakaṁ](https://www.youtube.com/watch?v=6Q8OOD0A654)
+- [After Hours Project Discussion](https://www.youtube.com/watch?v=jk1sl7f7MIk)
+- [Из Индии с днём России!](https://www.youtube.com/watch?v=39B9AS0IrAY)
+- [Bachelor of Engineering Final Year Project Presentation](https://www.youtube.com/watch?v=6njDt28MYGs)
+<!-- YOUTUBE:END -->
+
+[Watch more videos➡️](https://www.youtube.com/channel/UCUM6VLeuCe22Doink_9G27Q?subscribe=1)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [What Exists Here May Be Found Elsewhere](https://vedantmadane.github.io/2021-07-30-what-is-here/)
+- [प्रधान पदार्थ विश्लेषण](https://vedantmadane.github.io/2021-07-19-pca/)
+- [June in Review](https://vedantmadane.github.io/2021-07-08-june-month-in-review/)
+- [15 Meme Templates in Sanskrit](https://vedantmadane.github.io/2021-07-04-15-meme-templates-in-sanskrit/)
+- [May Month in Review](https://vedantmadane.github.io/2021-06-21-may-month-in-review/)
+- [What are Recurrent Neural Networks?](https://vedantmadane.github.io/2021-06-14-recurrent-neural-networks/)
+- [You earned more XP than 79 percent of learners](https://vedantmadane.github.io/2021-05-19-You-earned-more-XP-than-79-ptc-of-learners/)
+- [You Spent 3224 minutes taking courses in April](https://vedantmadane.github.io/2021-05-07-plural-sight/)
+- [You Earned 12835 Xp This Week](https://vedantmadane.github.io/2021-05-05-you-earned-12835-XP-this-week/)
+- [May Journal Entry](https://vedantmadane.github.io/2021-05-04-may-journal-entry/)
+<!-- BLOG-POST-LIST:END -->
+[Read more posts➡️](https://vedantmadane.github.io/2/)
