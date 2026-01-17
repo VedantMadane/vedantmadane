@@ -1,16 +1,28 @@
-<h1 align="center">Vedant Madane</h1>
-<h3 align="center">Sanskrit & NLP Enthusiast | Open Source Contributor</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantmadane&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
 
 <p align="center">
-  <a href="https://vedantmadane.github.io/aboutme" target="_blank">
-    <em>I like learning languages — both natural and programming.</em>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantmadane&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantmadane&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmadane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantmadane&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
+<!-- <h1 align="center">Vedant Madane</h1>
+<h3 align="center">Sanskrit & NLP Enthusiast | Open Source Contributor</h3> -->
+
+<!-- <p align="center">
+  <a href="https://vedantmadane.github.io/aboutme" target="_blank">
+    <em>I like learning languages — both natural and programming.</em>
+  </a>
+</p> -->
 ---
 
 ### 🚀 About Me
@@ -21,24 +33,6 @@
 - ✨ Active open source contributor
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmadane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantmadane&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantmadane&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantmadane&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
