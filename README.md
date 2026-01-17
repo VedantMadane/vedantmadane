@@ -29,42 +29,66 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <a href="https://github.com/meilisearch/meilisearch-python/pull/1194">
 <img src="https://img.shields.io/badge/meilisearch--python-DC382D?style=flat-square&logo=meilisearch&logoColor=white" alt="meilisearch-python"/>
 <br/><sub><b>Fix Docs Build</b></sub>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <a href="https://github.com/ipfs/kubo/pull/10977">
 <img src="https://img.shields.io/badge/IPFS_Kubo-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="Kubo"/>
 <br/><sub><b>Add key ls alias</b></sub>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <a href="https://github.com/TanStack/query/pull/7925">
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
 <br/><sub><b>Vue queryOptions fix</b></sub>
 </a>
 </td>
+<td align="center" width="20%">
+<a href="https://github.com/sphinx-doc/sphinxcontrib-htmlhelp/pull/82">
+<img src="https://img.shields.io/badge/Sphinx-0A507A?style=flat-square&logo=sphinx&logoColor=white" alt="sphinxcontrib-htmlhelp"/>
+<br/><sub><b>Fix typo in epilog</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/meilisearch/meilisearch-rust/pull/752">
+<img src="https://img.shields.io/badge/meilisearch--rust-DC382D?style=flat-square&logo=rust&logoColor=white" alt="meilisearch-rust"/>
+<br/><sub><b>Update deps</b></sub>
+</a>
+</td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <a href="https://github.com/meilisearch/meilisearch-rust/pull/772">
 <img src="https://img.shields.io/badge/meilisearch--rust-DC382D?style=flat-square&logo=rust&logoColor=white" alt="meilisearch-rust"/>
 <br/><sub><b>Action enum variants</b></sub>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <a href="https://github.com/common-voice/common-voice/pull/1052">
 <img src="https://img.shields.io/badge/Mozilla_Common_Voice-000000?style=flat-square&logo=mozilla&logoColor=white" alt="Common Voice"/>
 <br/><sub><b>Skip animation fix</b></sub>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="20%">
 <a href="https://github.com/optuna/optuna/pull/6412">
 <img src="https://img.shields.io/badge/Optuna-2196F3?style=flat-square&logo=python&logoColor=white" alt="Optuna"/>
 <br/><sub><b>f-string conversion</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/pola-rs/polars/pull/21847">
+<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars"/>
+<br/><sub><b>DeprecationWarning fix</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/pandas-dev/pandas/pull/61315">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+<br/><sub><b>PyArrow dtype tests</b></sub>
 </a>
 </td>
 </tr>
