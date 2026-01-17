@@ -25,6 +25,72 @@
 </p> -->
 ---
 
+### ✅ Merged Open Source Contributions
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/meilisearch/meilisearch-python/pull/1194">
+<img src="https://img.shields.io/badge/meilisearch--python-DC382D?style=flat-square&logo=meilisearch&logoColor=white" alt="meilisearch-python"/>
+<br/><sub><b>Fix Docs Build</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/ipfs/kubo/pull/10977">
+<img src="https://img.shields.io/badge/IPFS_Kubo-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="Kubo"/>
+<br/><sub><b>Add key ls alias</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/TanStack/query/pull/7925">
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+<br/><sub><b>Vue queryOptions fix</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/meilisearch/meilisearch-rust/pull/772">
+<img src="https://img.shields.io/badge/meilisearch--rust-DC382D?style=flat-square&logo=rust&logoColor=white" alt="meilisearch-rust"/>
+<br/><sub><b>Action enum variants</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/common-voice/common-voice/pull/1052">
+<img src="https://img.shields.io/badge/Mozilla_Common_Voice-000000?style=flat-square&logo=mozilla&logoColor=white" alt="Common Voice"/>
+<br/><sub><b>Skip animation fix</b></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/optuna/optuna/pull/6412">
+<img src="https://img.shields.io/badge/Optuna-2196F3?style=flat-square&logo=python&logoColor=white" alt="Optuna"/>
+<br/><sub><b>f-string conversion</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://vedantmadane.github.io/portfolio">
+<img src="https://img.shields.io/badge/View_All_30+_PRs-00d4aa?style=for-the-badge&logoColor=white" alt="View Portfolio"/>
+</a>
+</p>
+
+---
+
+### 🔥 Active Contributions
+
+<p align="center">
+<a href="https://github.com/stanfordnlp/dspy/pull/9207"><img src="https://img.shields.io/badge/DSPy-Cost_Tracking-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
+<a href="https://github.com/crewAIInc/crewAI/pull/4248"><img src="https://img.shields.io/badge/CrewAI-OpenAI_Responses_API-00A67E?style=flat-square&logo=openai&logoColor=white"/></a>
+<a href="https://github.com/microsoft/autogen/pull/7178"><img src="https://img.shields.io/badge/AutoGen-Azure_Streaming_Fix-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a>
+<a href="https://github.com/BerriAI/litellm/pull/19270"><img src="https://img.shields.io/badge/LiteLLM-Vertex_AI_Fix-FF6F00?style=flat-square&logo=google-cloud&logoColor=white"/></a>
+<a href="https://github.com/facebook/docusaurus/pull/11666"><img src="https://img.shields.io/badge/Docusaurus-Markdown_Links-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white"/></a>
+<a href="https://github.com/huggingface/transformers/pull/43313"><img src="https://img.shields.io/badge/🤗_Transformers-MobileNet_Fix-FFD21E?style=flat-square"/></a>
+</p>
+
+---
+
 ### 🚀 About Me
 
 - 🔭 Currently exploring **NLP** and **Sanskrit computational linguistics**
