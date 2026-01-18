@@ -15,62 +15,28 @@
   <img src="https://komarev.com/ghpvc/?username=vedantmadane&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- <h1 align="center">Vedant Madane</h1>
-<h3 align="center">Sanskrit & NLP Enthusiast | Open Source Contributor</h3> -->
-
-<!-- <p align="center">
-  <a href="https://vedantmadane.github.io/aboutme" target="_blank">
-    <em>I like learning languages — both natural and programming.</em>
-  </a>
-</p> -->
 ---
 
-### ✅ Merged Open Source Contributions
+### ✅ Merged Open Source Contributions (30 PRs in 22 repos)
 
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/meilisearch/meilisearch-python/pull/1194">
-<img src="https://img.shields.io/badge/meilisearch--python-DC382D?style=flat-square&logo=meilisearch&logoColor=white" alt="meilisearch-python"/>
-<br/><sub><b>Fix Docs Build</b></sub>
+<a href="https://github.com/OpenHands/OpenHands/pull/12354">
+<img src="https://img.shields.io/badge/OpenHands-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="OpenHands"/>
+<br/><sub><b>Error banner UX</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/ipfs/kubo/pull/10977">
-<img src="https://img.shields.io/badge/IPFS_Kubo-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="Kubo"/>
-<br/><sub><b>Add key ls alias</b></sub>
+<a href="https://github.com/infiniflow/ragflow/pull/12546">
+<img src="https://img.shields.io/badge/RAGFlow-4A90D9?style=flat-square&logo=github&logoColor=white" alt="RAGFlow"/>
+<br/><sub><b>Chunk retrieval fix</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/TanStack/query/pull/7925">
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-<br/><sub><b>Vue queryOptions fix</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/sphinx-doc/sphinxcontrib-htmlhelp/pull/82">
-<img src="https://img.shields.io/badge/Sphinx-0A507A?style=flat-square&logo=sphinx&logoColor=white" alt="sphinxcontrib-htmlhelp"/>
-<br/><sub><b>Fix typo in epilog</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/meilisearch/meilisearch-rust/pull/752">
-<img src="https://img.shields.io/badge/meilisearch--rust-DC382D?style=flat-square&logo=rust&logoColor=white" alt="meilisearch-rust"/>
-<br/><sub><b>Update deps</b></sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/meilisearch/meilisearch-rust/pull/772">
-<img src="https://img.shields.io/badge/meilisearch--rust-DC382D?style=flat-square&logo=rust&logoColor=white" alt="meilisearch-rust"/>
-<br/><sub><b>Action enum variants</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/common-voice/common-voice/pull/1052">
-<img src="https://img.shields.io/badge/Mozilla_Common_Voice-000000?style=flat-square&logo=mozilla&logoColor=white" alt="Common Voice"/>
-<br/><sub><b>Skip animation fix</b></sub>
+<a href="https://github.com/pydantic/pydantic/pull/12707">
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+<br/><sub><b>Pickle regression test</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
@@ -80,25 +46,89 @@
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/pola-rs/polars/pull/21847">
-<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars"/>
-<br/><sub><b>DeprecationWarning fix</b></sub>
+<a href="https://github.com/marimo-team/marimo/pull/7864">
+<img src="https://img.shields.io/badge/Marimo-00D4AA?style=flat-square&logo=jupyter&logoColor=white" alt="Marimo"/>
+<br/><sub><b>PyIceberg error handling</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/pnpm/pnpm/pull/10466">
+<img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/>
+<br/><sub><b>Workspace versions</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/pandas-dev/pandas/pull/61315">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
-<br/><sub><b>PyArrow dtype tests</b></sub>
+<a href="https://github.com/tox-dev/tox/pull/3670">
+<img src="https://img.shields.io/badge/tox-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="tox"/>
+<br/><sub><b>Docs: ENVDIR fix</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/jd/tenacity/pull/548">
+<img src="https://img.shields.io/badge/Tenacity-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tenacity"/>
+<br/><sub><b>Docstring syntax fix</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/statsmodels/statsmodels/pull/9561">
+<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square&logo=scipy&logoColor=white" alt="Statsmodels"/>
+<br/><sub><b>Citation link fix</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/invoke-ai/InvokeAI/pull/1821">
+<img src="https://img.shields.io/badge/InvokeAI-6366F1?style=flat-square&logo=github&logoColor=white" alt="InvokeAI"/>
+<br/><sub><b>Notebook link fix</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/tensorflow/docs/pull/1898">
+<img src="https://img.shields.io/badge/TensorFlow_Docs-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<br/><sub><b>CSV tutorial update</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/yeqown/go-qrcode/pull/75">
+<img src="https://img.shields.io/badge/go--qrcode-00ADD8?style=flat-square&logo=go&logoColor=white" alt="go-qrcode"/>
+<br/><sub><b>Typo fix</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/yajnadevam/lipi/pull/6">
+<img src="https://img.shields.io/badge/Lipi-FF9933?style=flat-square&logo=github&logoColor=white" alt="Lipi"/>
+<br/><sub><b>Sanskrit translation</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/bhavykhatri/DharmicData/pull/7">
+<img src="https://img.shields.io/badge/DharmicData-800020?style=flat-square&logo=github&logoColor=white" alt="DharmicData"/>
+<br/><sub><b>Mahabharata edition</b></sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/pull/18">
+<img src="https://img.shields.io/badge/RAG_Series-00A67E?style=flat-square&logo=github&logoColor=white" alt="RAG Series"/>
+<br/><sub><b>LangChain link fix</b></sub>
 </a>
 </td>
 </tr>
 </table>
 
-<p align="center">
-<a href="https://vedantmadane.github.io/portfolio">
-<img src="https://img.shields.io/badge/View_All_30+_PRs-00d4aa?style=for-the-badge&logoColor=white" alt="View Portfolio"/>
-</a>
-</p>
+<details>
+<summary><b>+ 15 more merged PRs</b> (click to expand)</summary>
+
+| Repository | PR | Description |
+|------------|------|-------------|
+| [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | [#4204](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/4204) - [#4237](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/4237) | **9 PRs** - Quiz updates (JS, Go, Django, MongoDB, etc.) |
+| [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) | [#69](https://github.com/mrdbourke/tensorflow-deep-learning/pull/69) | TensorFlow fundamentals notebook |
+| [github-education-resources/GitHubGraduation-2022](https://github.com/github-education-resources/GitHubGraduation-2022) | [#6592](https://github.com/github-education-resources/GitHubGraduation-2022/pull/6592) | Graduation profile |
+| [bachdgvn/vue-otp-input](https://github.com/bachdgvn/vue-otp-input) | [#60](https://github.com/bachdgvn/vue-otp-input/pull/60) | README update |
+
+</details>
 
 ---
 
