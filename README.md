@@ -17,7 +17,7 @@
 
 ---
 
-### ✅ Merged Open Source Contributions (30 PRs in 22 repos)
+### ✅ Merged Open Source Contributions <!-- (30 PRs in 22 repos) -->
 
 <table>
 <tr>
@@ -118,6 +118,7 @@
 </tr>
 </table>
 
+<!--
 <details>
 <summary><b>+ 15 more merged PRs</b> (click to expand)</summary>
 
@@ -129,10 +130,11 @@
 | [bachdgvn/vue-otp-input](https://github.com/bachdgvn/vue-otp-input) | [#60](https://github.com/bachdgvn/vue-otp-input/pull/60) | README update |
 
 </details>
+-->
 
 ---
 
-### 🔥 Active Contributions (53 Open PRs)
+### 🔥 Active Contributions <!-- (53 Open PRs) -->
 
 #### AI/ML Frameworks
 <p align="left">
@@ -206,6 +208,7 @@
 <a href="https://github.com/OpenHands/OpenHands/pull/12463"><img src="https://img.shields.io/badge/OpenHands-UI_Empty_State-FF6B6B?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
+<!--
 <details>
 <summary><b>+ 6 more PRs in smaller repos</b></summary>
 
@@ -218,6 +221,7 @@
 | [mridul-sahu/greedy_auction](https://github.com/mridul-sahu/greedy_auction/pull/1) | #1 | Update README |
 
 </details>
+-->
 
 ---
 
