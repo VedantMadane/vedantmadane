@@ -116,6 +116,23 @@
 </a>
 </td>
 </tr>
+  <tr>
+    <td align="center" width="20%">
+<a href="https://github.com/BerriAI/litellm/pull/19266"><img src="https://img.shields.io/badge/LiteLLM-Cache_Control-FF6F00?style=flat-square&logo=google-cloud&logoColor=white"/></a>
+    </td>
+    <td align="center" width="20%">    
+<a href="https://github.com/optuna/optuna/pull/6418"><img src="https://img.shields.io/badge/Optuna-GPSampler_Fix-2196F3?style=flat-square&logo=python&logoColor=white"/></a>
+    </td>
+        <td align="center" width="20%">
+          <a href="https://github.com/marimo-team/marimo/pull/7881"><img src="https://img.shields.io/badge/Marimo-SQL_Fix-00D4AA?style=flat-square&logo=jupyter&logoColor=white"/></a>
+        </td>
+            <td align="center" width="20%">
+            <a href="https://github.com/facebook/docusaurus/pull/11666"><img src="https://img.shields.io/badge/Docusaurus-MD_Links-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white"/></a>
+            </td>
+            <td align="center" width="20%" height="20%">
+            <a href="https://github.com/twentyhq/twenty/pull/17160"><img src="https://img.shields.io/badge/Twenty-Custom_Domain-000000?style=flat-square&logo=github&logoColor=white"/></a>
+            </td>
+  </tr>
 </table>
 
 <!--
@@ -145,7 +162,6 @@
 <a href="https://github.com/langchain-ai/langchain/pull/34791"><img src="https://img.shields.io/badge/LangChain-vLLM_Fix-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a>
 <a href="https://github.com/deepset-ai/haystack/pull/10400"><img src="https://img.shields.io/badge/Haystack-DocumentCleaner-00A98F?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/BerriAI/litellm/pull/19270"><img src="https://img.shields.io/badge/LiteLLM-Vertex_AI-FF6F00?style=flat-square&logo=google-cloud&logoColor=white"/></a>
-<a href="https://github.com/BerriAI/litellm/pull/19266"><img src="https://img.shields.io/badge/LiteLLM-Cache_Control-FF6F00?style=flat-square&logo=google-cloud&logoColor=white"/></a>
 <a href="https://github.com/huggingface/transformers/pull/43313"><img src="https://img.shields.io/badge/🤗_Transformers-MobileNet_Fix-FFD21E?style=flat-square"/></a>
 <a href="https://github.com/huggingface/transformers.js/pull/1499"><img src="https://img.shields.io/badge/Transformers.js-Type_Defs-FFD21E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <a href="https://github.com/ollama/ollama/pull/13743"><img src="https://img.shields.io/badge/Ollama-Sidebar_Fix-000000?style=flat-square&logo=ollama&logoColor=white"/></a>
@@ -157,8 +173,6 @@
 <a href="https://github.com/pandas-dev/pandas/pull/63704"><img src="https://img.shields.io/badge/pandas-PyArrow_Tests-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 <a href="https://github.com/pola-rs/polars/pull/26129"><img src="https://img.shields.io/badge/Polars-LazyFrame_Warning-CD792C?style=flat-square&logo=polars&logoColor=white"/></a>
 <a href="https://github.com/dask/dask/pull/12236"><img src="https://img.shields.io/badge/Dask-Coarsen_Docs-FDA061?style=flat-square&logo=dask&logoColor=white"/></a>
-<a href="https://github.com/optuna/optuna/pull/6418"><img src="https://img.shields.io/badge/Optuna-GPSampler_Fix-2196F3?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="https://github.com/marimo-team/marimo/pull/7881"><img src="https://img.shields.io/badge/Marimo-SQL_Fix-00D4AA?style=flat-square&logo=jupyter&logoColor=white"/></a>
 <a href="https://github.com/matplotlib/matplotlib/pull/30975"><img src="https://img.shields.io/badge/Matplotlib-Windows_Config-11557C?style=flat-square&logo=python&logoColor=white"/></a>
 </p>
 
@@ -168,11 +182,9 @@
 <a href="https://github.com/vitejs/vite/pull/21420"><img src="https://img.shields.io/badge/Vite-HTM_Support-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
 <a href="https://github.com/vitejs/vite/pull/21419"><img src="https://img.shields.io/badge/Vite-Port_Detection-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
 <a href="https://github.com/vitejs/vite/pull/21418"><img src="https://img.shields.io/badge/Vite-ESBuild_Helpers-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-<a href="https://github.com/facebook/docusaurus/pull/11666"><img src="https://img.shields.io/badge/Docusaurus-MD_Links-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white"/></a>
 <a href="https://github.com/withastro/astro/pull/15211"><img src="https://img.shields.io/badge/Astro-Vercel_Gitignore-FF5D01?style=flat-square&logo=astro&logoColor=white"/></a>
 <a href="https://github.com/excalidraw/excalidraw/pull/10654"><img src="https://img.shields.io/badge/Excalidraw-Search_Order-6965DB?style=flat-square&logo=excalidraw&logoColor=white"/></a>
 <a href="https://github.com/TanStack/query/pull/10042"><img src="https://img.shields.io/badge/TanStack_Query-Vue_Options-FF4154?style=flat-square&logo=reactquery&logoColor=white"/></a>
-<a href="https://github.com/twentyhq/twenty/pull/17160"><img src="https://img.shields.io/badge/Twenty-Custom_Domain-000000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 #### Infrastructure & DevOps
@@ -180,19 +192,20 @@
 <a href="https://github.com/apache/airflow/pull/60592"><img src="https://img.shields.io/badge/Airflow-Pools_E2E-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
 <a href="https://github.com/apache/airflow/pull/60591"><img src="https://img.shields.io/badge/Airflow-Clear_Tasks-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
 <a href="https://github.com/apache/airflow/pull/60586"><img src="https://img.shields.io/badge/Airflow-Variables_E2E-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
-<a href="https://github.com/moby/moby/pull/51854"><img src="https://img.shields.io/badge/Docker-Goroutine_Leak-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a href="https://github.com/cli/cli/pull/12475"><img src="https://img.shields.io/badge/GitHub_CLI-Fork_Remote-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/jaegertracing/jaeger-ui/pull/3411"><img src="https://img.shields.io/badge/Jaeger-Refactor-66CFE3?style=flat-square&logo=jaeger&logoColor=white"/></a>
 <a href="https://github.com/google-gemini/gemini-cli/pull/16713"><img src="https://img.shields.io/badge/Gemini_CLI-Refactor-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
+</br>Merged: <a href="https://github.com/moby/moby/pull/51854"><img src="https://img.shields.io/badge/Docker-Goroutine_Leak-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 </p>
 
 #### Search & Databases
 <p align="left">
-<a href="https://github.com/meilisearch/meilisearch/pull/6109"><img src="https://img.shields.io/badge/Meilisearch-Parallel_Delete-DC382D?style=flat-square&logo=meilisearch&logoColor=white"/></a>
-<a href="https://github.com/meilisearch/meilisearch-python/pull/1195"><img src="https://img.shields.io/badge/Meilisearch_Py-CI_Fix-DC382D?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://github.com/meilisearch/meilisearch-rust/pull/752"><img src="https://img.shields.io/badge/Meilisearch_RS-Action_Enum-DC382D?style=flat-square&logo=rust&logoColor=white"/></a>
 <a href="https://github.com/infiniflow/ragflow/pull/12668"><img src="https://img.shields.io/badge/RAGFlow-Pip_Install-4A90D9?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/lancedb/lancedb/pull/2916"><img src="https://img.shields.io/badge/LanceDB-BigInt_Fix-FF6B6B?style=flat-square&logo=github&logoColor=white"/></a>
+</br>Merged: 
+<a href="https://github.com/meilisearch/meilisearch/pull/6109"><img src="https://img.shields.io/badge/Meilisearch-Parallel_Delete-DC382D?style=flat-square&logo=meilisearch&logoColor=white"/></a>
+<a href="https://github.com/meilisearch/meilisearch-python/pull/1195"><img src="https://img.shields.io/badge/Meilisearch_Py-CI_Fix-DC382D?style=flat-square&logo=python&logoColor=white"/></a>
 </p>
 
 #### Developer Tools
