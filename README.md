@@ -212,7 +212,7 @@
 <p align="left">
 <a href="https://github.com/ipfs/kubo/pull/11147"><img src="https://img.shields.io/badge/IPFS_Kubo-Key_Alias-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/></a>
 <a href="https://github.com/bitwarden/clients/pull/18381"><img src="https://img.shields.io/badge/Bitwarden-Card_Brand-175DDC?style=flat-square&logo=bitwarden&logoColor=white"/></a>
-<a href="https://github.com/pallets/click/pull/3187"><img src="https://img.shields.io/badge/Click-BytesWarning-4B8BBE?style=flat-square&logo=python&logoColor=white"/></a>
+<!-- <a href="https://github.com/pallets/click/pull/3187"><img src="https://img.shields.io/badge/Click-BytesWarning-4B8BBE?style=flat-square&logo=python&logoColor=white"/></a> -->
 <a href="https://github.com/beetbox/beets/pull/6294"><img src="https://img.shields.io/badge/Beets-Error_Msg-4B8BBE?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://github.com/sphinx-doc/sphinxcontrib-htmlhelp/pull/43"><img src="https://img.shields.io/badge/Sphinx-Typo_Fix-0A507A?style=flat-square&logo=sphinx&logoColor=white"/></a>
 <a href="https://github.com/common-voice/common-voice/pull/5252"><img src="https://img.shields.io/badge/Common_Voice-Animation-000000?style=flat-square&logo=mozilla&logoColor=white"/></a>
