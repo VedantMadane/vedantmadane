@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantmadane&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+<div align="center">
+  <a href="https://github.com/VedantMadane">
+    <img src="https://github-stats-alpha.vercel.app/api?username=vedantmadane&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub stats counts" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantmadane&theme=tokyonight" alt="Repos per Language" />
@@ -302,4 +304,10 @@
 <p align="center">
   <em>✨ "यदिहास्ति तदन्यत्र यन्नेहास्ति न तत्क्वचित्" ✨</em><br/>
   <sub>What exists here may be found elsewhere; what does not exist here exists nowhere.</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantmadane&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
