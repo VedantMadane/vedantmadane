@@ -19,7 +19,7 @@
 
 ---
 
-### ✅ Merged Open Source Contributions <!-- (30 PRs in 22 repos) -->
+### ✅ Merged Open Source Contributions <!-- (297+ Merged PRs) -->
 
 <table>
 <tr>
@@ -135,6 +135,23 @@
             <a href="https://github.com/twentyhq/twenty/pull/17160"><img src="https://img.shields.io/badge/Twenty-Custom_Domain-000000?style=flat-square&logo=github&logoColor=white"/></a>
             </td>
   </tr>
+  <tr>
+    <td align="center" width="20%">
+<a href="https://github.com/conda/conda/pull/15773"><img src="https://img.shields.io/badge/Conda-Type_Hints-44A833?style=flat-square&logo=anaconda&logoColor=white"/></a>
+    </td>
+    <td align="center" width="20%">
+<a href="https://github.com/moby/moby/pull/51854"><img src="https://img.shields.io/badge/Docker-Goroutine_Leak-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+    </td>
+    <td align="center" width="20%">
+<a href="https://github.com/pandas-dev/pandas/pull/63704"><img src="https://img.shields.io/badge/pandas-PyArrow_Tests-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+    </td>
+    <td align="center" width="20%">
+<a href="https://github.com/astral-sh/ruff/pull/23912"><img src="https://img.shields.io/badge/Ruff-ANN401_Fix-E25A1C?style=flat-square&logo=rust&logoColor=white"/></a>
+    </td>
+    <td align="center" width="20%">
+<a href="https://github.com/vercel/next.js/pull/90370"><img src="https://img.shields.io/badge/Next.js-Cache_Handler-000000?style=flat-square&logo=next.js&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
 
 <!--
@@ -153,90 +170,54 @@
 
 ---
 
-### 🔥 Active Contributions <!-- (53 Open PRs) -->
+### ⚡ Ongoing Open Source Contributions <!-- (652+ Open PRs) -->
 
-#### AI/ML Frameworks
+#### AI, Agents & LLM Systems
 <p align="left">
-<a href="https://github.com/vllm-project/vllm/pull/32509"><img src="https://img.shields.io/badge/vLLM-KV_Cache_Refactor-5C2D91?style=flat-square&logo=nvidia&logoColor=white"/></a>
-<a href="https://github.com/stanfordnlp/dspy/pull/9207"><img src="https://img.shields.io/badge/DSPy-Cost_Tracking-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
-<a href="https://github.com/crewAIInc/crewAI/pull/4248"><img src="https://img.shields.io/badge/CrewAI-OpenAI_Responses_API-00A67E?style=flat-square&logo=openai&logoColor=white"/></a>
-<a href="https://github.com/microsoft/autogen/pull/7178"><img src="https://img.shields.io/badge/AutoGen-Azure_Streaming-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a>
-<a href="https://github.com/langchain-ai/langchain/pull/34791"><img src="https://img.shields.io/badge/LangChain-vLLM_Fix-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a>
-<a href="https://github.com/deepset-ai/haystack/pull/10400"><img src="https://img.shields.io/badge/Haystack-DocumentCleaner-00A98F?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github.com/BerriAI/litellm/pull/19270"><img src="https://img.shields.io/badge/LiteLLM-Vertex_AI-FF6F00?style=flat-square&logo=google-cloud&logoColor=white"/></a>
-<a href="https://github.com/huggingface/transformers/pull/43313"><img src="https://img.shields.io/badge/🤗_Transformers-MobileNet_Fix-FFD21E?style=flat-square"/></a>
-<a href="https://github.com/huggingface/transformers.js/pull/1499"><img src="https://img.shields.io/badge/Transformers.js-Type_Defs-FFD21E?style=flat-square&logo=javascript&logoColor=black"/></a>
-<a href="https://github.com/ollama/ollama/pull/13743"><img src="https://img.shields.io/badge/Ollama-Sidebar_Fix-000000?style=flat-square&logo=ollama&logoColor=white"/></a>
-<a href="https://github.com/cleanlab/cleanlab/pull/1298"><img src="https://img.shields.io/badge/Cleanlab-Docs-4B8BBE?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://github.com/ollama/ollama/pull/13743"><img src="https://img.shields.io/badge/Ollama-Sidebar_Animation-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/></a>
+<a href="https://github.com/microsoft/autogen/pull/7178"><img src="https://img.shields.io/badge/AutoGen-Azure_Streaming-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen"/></a>
+<a href="https://github.com/BerriAI/litellm/pull/36772"><img src="https://img.shields.io/badge/LiteLLM-vLLM_Passthrough-FF6F00?style=flat-square&logo=google-cloud&logoColor=white" alt="LiteLLM"/></a>
+<a href="https://github.com/crewAIInc/crewAI/pull/4252"><img src="https://img.shields.io/badge/CrewAI-Callback_Isolation-00A67E?style=flat-square&logo=openai&logoColor=white" alt="CrewAI"/></a>
+<a href="https://github.com/FlowiseAI/Flowise/pull/6065"><img src="https://img.shields.io/badge/Flowise-Cohere_Rerank-4338CA?style=flat-square&logo=node.js&logoColor=white" alt="Flowise"/></a>
+<a href="https://github.com/stanfordnlp/dspy/pull/9207"><img src="https://img.shields.io/badge/DSPy-Cost_Tracking-4285F4?style=flat-square&logo=google&logoColor=white" alt="DSPy"/></a>
+<a href="https://github.com/TabbyML/tabby/pull/4467"><img src="https://img.shields.io/badge/Tabby-Thinking_Blocks-00D4AA?style=flat-square&logo=rust&logoColor=white" alt="Tabby"/></a>
+<a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/2710"><img src="https://img.shields.io/badge/MCP_SDK-Params_Schema-181717?style=flat-square&logo=typescript&logoColor=white" alt="MCP SDK"/></a>
+<a href="https://github.com/cleanlab/cleanlab/pull/1326"><img src="https://img.shields.io/badge/Cleanlab-CI_Modernization-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="Cleanlab"/></a>
+<a href="https://github.com/huggingface/skills/pull/71"><img src="https://img.shields.io/badge/🤗_HF_Skills-Benchmark_Skill-FFD21E?style=flat-square" alt="HF Skills"/></a>
 </p>
 
-#### Data Science & Analytics
+#### Web, Frontend & Developer Tools
 <p align="left">
-<a href="https://github.com/pandas-dev/pandas/pull/63704"><img src="https://img.shields.io/badge/pandas-PyArrow_Tests-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-<a href="https://github.com/pola-rs/polars/pull/26129"><img src="https://img.shields.io/badge/Polars-LazyFrame_Warning-CD792C?style=flat-square&logo=polars&logoColor=white"/></a>
-<a href="https://github.com/dask/dask/pull/12236"><img src="https://img.shields.io/badge/Dask-Coarsen_Docs-FDA061?style=flat-square&logo=dask&logoColor=white"/></a>
-<a href="https://github.com/matplotlib/matplotlib/pull/30975"><img src="https://img.shields.io/badge/Matplotlib-Windows_Config-11557C?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://github.com/excalidraw/excalidraw/pull/10654"><img src="https://img.shields.io/badge/Excalidraw-Search_Stability-6965DB?style=flat-square&logo=excalidraw&logoColor=white" alt="Excalidraw"/></a>
+<a href="https://github.com/microsoft/TypeScript/pull/63248"><img src="https://img.shields.io/badge/TypeScript-JSON_Lib_Types-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a href="https://github.com/nexu-io/open-design/pull/7748"><img src="https://img.shields.io/badge/OpenDesign-Runtime_Config-FF6B6B?style=flat-square&logo=electron&logoColor=white" alt="OpenDesign"/></a>
+<a href="https://github.com/jupyterlab/jupyterlab/pull/19482"><img src="https://img.shields.io/badge/JupyterLab-Split_View_Ratio-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="JupyterLab"/></a>
+<a href="https://github.com/beetbox/beets/pull/6294"><img src="https://img.shields.io/badge/Beets-Directory_Perms-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="Beets"/></a>
 </p>
 
-#### Web & Frontend
+#### Systems, Compilers & Runtimes
 <p align="left">
-<a href="https://github.com/vitejs/vite/pull/21429"><img src="https://img.shields.io/badge/Vite-HTML_Path-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-<a href="https://github.com/vitejs/vite/pull/21420"><img src="https://img.shields.io/badge/Vite-HTM_Support-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-<a href="https://github.com/vitejs/vite/pull/21419"><img src="https://img.shields.io/badge/Vite-Port_Detection-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-<a href="https://github.com/vitejs/vite/pull/21418"><img src="https://img.shields.io/badge/Vite-ESBuild_Helpers-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-<a href="https://github.com/withastro/astro/pull/15211"><img src="https://img.shields.io/badge/Astro-Vercel_Gitignore-FF5D01?style=flat-square&logo=astro&logoColor=white"/></a>
-<a href="https://github.com/excalidraw/excalidraw/pull/10654"><img src="https://img.shields.io/badge/Excalidraw-Search_Order-6965DB?style=flat-square&logo=excalidraw&logoColor=white"/></a>
-<a href="https://github.com/TanStack/query/pull/10042"><img src="https://img.shields.io/badge/TanStack_Query-Vue_Options-FF4154?style=flat-square&logo=reactquery&logoColor=white"/></a>
+<a href="https://github.com/astral-sh/uv/pull/21175"><img src="https://img.shields.io/badge/uv-System_Python_Config-DE5FE9?style=flat-square&logo=rust&logoColor=white" alt="uv"/></a>
+<a href="https://github.com/astral-sh/ruff/pull/27821"><img src="https://img.shields.io/badge/Ruff-Async_With_SIM117-E25A1C?style=flat-square&logo=rust&logoColor=white" alt="Ruff"/></a>
+<a href="https://github.com/facebook/zstd/pull/4743"><img src="https://img.shields.io/badge/zstd-Trace_Ratio_Guard-00599C?style=flat-square&logo=c&logoColor=white" alt="zstd"/></a>
+<a href="https://github.com/serde-rs/json/pull/1337"><img src="https://img.shields.io/badge/serde--json-Malformed_UTF8_Tests-DEA584?style=flat-square&logo=rust&logoColor=white" alt="serde-json"/></a>
+<a href="https://github.com/go-git/go-git/pull/2342"><img src="https://img.shields.io/badge/go--git-RemoveRef_Dirs-00ADD8?style=flat-square&logo=go&logoColor=white" alt="go-git"/></a>
 </p>
 
-#### Infrastructure & DevOps
+#### Infrastructure, Cloud & Data
 <p align="left">
-<a href="https://github.com/apache/airflow/pull/60592"><img src="https://img.shields.io/badge/Airflow-Pools_E2E-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
-<a href="https://github.com/apache/airflow/pull/60591"><img src="https://img.shields.io/badge/Airflow-Clear_Tasks-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
-<a href="https://github.com/apache/airflow/pull/60586"><img src="https://img.shields.io/badge/Airflow-Variables_E2E-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
-<a href="https://github.com/cli/cli/pull/12475"><img src="https://img.shields.io/badge/GitHub_CLI-Fork_Remote-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github.com/jaegertracing/jaeger-ui/pull/3411"><img src="https://img.shields.io/badge/Jaeger-Refactor-66CFE3?style=flat-square&logo=jaeger&logoColor=white"/></a>
-<a href="https://github.com/google-gemini/gemini-cli/pull/16713"><img src="https://img.shields.io/badge/Gemini_CLI-Refactor-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
-</br>Merged: <a href="https://github.com/moby/moby/pull/51854"><img src="https://img.shields.io/badge/Docker-Goroutine_Leak-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<a href="https://github.com/caddyserver/caddy/pull/7937"><img src="https://img.shields.io/badge/Caddy-RFC_9530_Content_Digest-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy"/></a>
+<a href="https://github.com/moby/moby/pull/53395"><img src="https://img.shields.io/badge/Docker_Moby-NamedPipe_Retry-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://github.com/prometheus/prometheus/pull/19390"><img src="https://img.shields.io/badge/Prometheus-HTTP_429_Retry_GA-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+<a href="https://github.com/podman-container-tools/podman/pull/28491"><img src="https://img.shields.io/badge/Podman-WSL_DNS_Fallback-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman"/></a>
+<a href="https://github.com/cockroachdb/cockroach/pull/168394"><img src="https://img.shields.io/badge/CockroachDB-Scan_Byte_Limits-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white" alt="CockroachDB"/></a>
+<a href="https://github.com/kubernetes/minikube/pull/22729"><img src="https://img.shields.io/badge/Minikube-Windows_Route_Fix-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Minikube"/></a>
+<a href="https://github.com/opentofu/opentofu/pull/4464"><img src="https://img.shields.io/badge/OpenTofu-Module_Versions-FFDA18?style=flat-square&logo=opentofu&logoColor=black" alt="OpenTofu"/></a>
+<a href="https://github.com/argoproj/argo-cd/pull/29239"><img src="https://img.shields.io/badge/ArgoCD-Unschedulable_Nodes_Fix-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/></a>
+<a href="https://github.com/vectordotdev/vector/pull/26125"><img src="https://img.shields.io/badge/Vector-WinEvent_Bookmark-111111?style=flat-square&logo=rust&logoColor=white" alt="Vector"/></a>
+<a href="https://github.com/moby/buildkit/pull/6544"><img src="https://img.shields.io/badge/BuildKit-Platform_Config_Keys-2496ED?style=flat-square&logo=docker&logoColor=white" alt="BuildKit"/></a>
+<a href="https://github.com/dask/dask/pull/12236"><img src="https://img.shields.io/badge/Dask-Coarsen_Docs-FDA061?style=flat-square&logo=dask&logoColor=white" alt="Dask"/></a>
 </p>
-
-#### Search & Databases
-<p align="left">
-<a href="https://github.com/meilisearch/meilisearch-rust/pull/752"><img src="https://img.shields.io/badge/Meilisearch_RS-Action_Enum-DC382D?style=flat-square&logo=rust&logoColor=white"/></a>
-<a href="https://github.com/infiniflow/ragflow/pull/12668"><img src="https://img.shields.io/badge/RAGFlow-Pip_Install-4A90D9?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github.com/lancedb/lancedb/pull/2916"><img src="https://img.shields.io/badge/LanceDB-BigInt_Fix-FF6B6B?style=flat-square&logo=github&logoColor=white"/></a>
-</br>Merged: 
-<a href="https://github.com/meilisearch/meilisearch/pull/6109"><img src="https://img.shields.io/badge/Meilisearch-Parallel_Delete-DC382D?style=flat-square&logo=meilisearch&logoColor=white"/></a>
-<a href="https://github.com/meilisearch/meilisearch-python/pull/1195"><img src="https://img.shields.io/badge/Meilisearch_Py-CI_Fix-DC382D?style=flat-square&logo=python&logoColor=white"/></a>
-</p>
-
-#### Developer Tools
-<p align="left">
-<a href="https://github.com/ipfs/kubo/pull/11147"><img src="https://img.shields.io/badge/IPFS_Kubo-Key_Alias-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/></a>
-<a href="https://github.com/bitwarden/clients/pull/18381"><img src="https://img.shields.io/badge/Bitwarden-Card_Brand-175DDC?style=flat-square&logo=bitwarden&logoColor=white"/></a>
-<!-- <a href="https://github.com/pallets/click/pull/3187"><img src="https://img.shields.io/badge/Click-BytesWarning-4B8BBE?style=flat-square&logo=python&logoColor=white"/></a> -->
-<a href="https://github.com/beetbox/beets/pull/6294"><img src="https://img.shields.io/badge/Beets-Error_Msg-4B8BBE?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="https://github.com/sphinx-doc/sphinxcontrib-htmlhelp/pull/43"><img src="https://img.shields.io/badge/Sphinx-Typo_Fix-0A507A?style=flat-square&logo=sphinx&logoColor=white"/></a>
-<a href="https://github.com/common-voice/common-voice/pull/5252"><img src="https://img.shields.io/badge/Common_Voice-Animation-000000?style=flat-square&logo=mozilla&logoColor=white"/></a>
-<a href="https://github.com/photoprism/photoprism/pull/5417"><img src="https://img.shields.io/badge/PhotoPrism-Four_Issues-18BDBB?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://github.com/zhenghaoz/gorse/pull/1"><img src="https://img.shields.io/badge/Gorse-Mutex_Fix-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
-<a href="https://github.com/OpenHands/OpenHands/pull/12463"><img src="https://img.shields.io/badge/OpenHands-UI_Empty_State-FF6B6B?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
-<!--
-<details>
-<summary><b>+ 6 more PRs in smaller repos</b></summary>
-
-| Repository | PR | Description |
-|------------|-----|-------------|
-| [amephraim/nlp](https://github.com/amephraim/nlp/pull/1) | #1 | Add 18 volumes of Mahabharata (English) |
-| [bgrins/filereader.js](https://github.com/bgrins/filereader.js/pull/30) | #30 | Replace broken link |
-| [daerty0153/visualize-browser-history](https://github.com/daerty0153/visualize-browser-history/pull/1) | #1 | Update URL |
-| [hofmannj0n/intro-quant-finance](https://github.com/hofmannj0n/introduction-to-quantitative-finance-in-python/pull/1) | #1 | Fix broken links |
-| [mridul-sahu/greedy_auction](https://github.com/mridul-sahu/greedy_auction/pull/1) | #1 | Update README |
-
-</details>
--->
 
 ---
 
